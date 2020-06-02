@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sys_Watcher_GaFUR", "Sys_Watcher_GaFUR\Sys_Watcher_GaFUR.csproj", "{82946020-D9EB-46F8-8CF3-AA2D9FBBCFCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82946020-D9EB-46F8-8CF3-AA2D9FBBCFCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82946020-D9EB-46F8-8CF3-AA2D9FBBCFCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82946020-D9EB-46F8-8CF3-AA2D9FBBCFCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82946020-D9EB-46F8-8CF3-AA2D9FBBCFCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B56F3CD2-436B-4FC7-A66B-60902CEFA9DF}
+	EndGlobalSection
+EndGlobal
